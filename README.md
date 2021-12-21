@@ -7,8 +7,8 @@
 4. [Практика по Ansible и Terraform](https://github.com/bambarambambum/devops-tasks)
 
 ## Что умею еще (в планах)
-1. Вот так я рисую схемы
-   ![Схема в Visio](https://i.ibb.co/JxZGvxt/schema-screenshot.png)
+1. Вот так я рисую схемы  
+   ![Схема в Visio](https://i.ibb.co/YDg1cDQ/schema-screenshot.png)
 3. Вот так я составлю документацию
 4. Вот так я делаю дашборды
 5. Вот так я могу в PowerShell
