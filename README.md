@@ -2,7 +2,7 @@
 
 ## Мои проекты
 1. [Микросервисное приложение "Визуальный редактор карты офиса"](https://github.com/bambarambambum/VisualOffice-App)
-2. [Проект по курсу OTUS "Практики и инструменты DevOps" (Свое микросервисное приложение, Helm + k8s, балансировка, prometheus + grafana, GitLab CI, Terraform, Автовыпуск сертификатов (видео с демонстрацией, 9 минут))](https://github.com/bambarambambum/VisualOffice)
+2. ["DevOps проект по развертыванию микросервисного приложения" (Свое микросервисное приложение, Helm + k8s, балансировка, prometheus + grafana, GitLab CI, Terraform, Автовыпуск сертификатов (видео с демонстрацией, 9 минут))](https://github.com/bambarambambum/VisualOffice)
 3. [Микросервисное приложение "Визуальный редактор карты офиса" на Python](https://github.com/bambarambambum/VisualOfficeApp-Python)
 4. [Практика по Ansible и Terraform](https://github.com/bambarambambum/devops-tasks)
 
