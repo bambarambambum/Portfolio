@@ -7,10 +7,6 @@
 4. [Практика по Ansible и Terraform](https://github.com/bambarambambum/devops-tasks)
 
 ## Что умею еще
-1. **Вот так я рисую схемы** 
-  
-   ![Схема в Visio](https://i.ibb.co/YDg1cDQ/schema-screenshot.png)  
-   https://github.com/bambarambambum/Portfolio/blob/main/Visio/%D0%A1%D1%85%D0%B5%D0%BC%D0%B0%20%D0%BF%D0%BE%D0%B4%D0%BA%D0%BB%D1%8E%D1%87%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%A1%D0%A0%D0%9A.vsdx  
 
 2. **Вот так я составляю документацию**  
   
